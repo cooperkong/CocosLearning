@@ -1,0 +1,10 @@
+*.sln
+MyCppGame/cocos2d/
+MyCppGame/proj.ios_mac/
+MyCppGame/proj.android/src/org/cocos2dx/cpp/AppActivity.java
+MyCppGame/proj.android/
+MyCppGame/proj.win8.1-universal/
+MyCppGame/proj.wp8-xaml/
+MyCppGame/proj.win32/main.h
+MyCppGame/proj.win32/
+MyCppGame/proj.linux/
