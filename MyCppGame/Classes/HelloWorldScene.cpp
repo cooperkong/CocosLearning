@@ -27,9 +27,8 @@ bool HelloWorld::init()
         return false;
     }
     
-	Sprite *s = Sprite::create("test.jpg");
-	s->setAnchorPoint(Point(0,0));
-	addChild(s);
+	log("Hello cocs2d %d", 200);
+	MessageBox("today is Tuesday", "Title");
     return true;
 }
 
